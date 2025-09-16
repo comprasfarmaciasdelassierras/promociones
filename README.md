@@ -1,2 +1,0 @@
-# promociones
-web promociones bancarias
